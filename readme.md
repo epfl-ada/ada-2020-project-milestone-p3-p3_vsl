@@ -57,3 +57,10 @@ When the right bias measure will be chosen and the dataset ready, Samuel will st
 After this, they will all 3 move to the stopped-search measure and evaluate if bias are present without the officer population at this level. Jonas will particularly focus on finding if there are any obvious bias in the results and find ways to overcome them.
 
 Finally, Samuel and Jonas will focus on extracting the results and drawing conclusion while, if there is enough time left, Mickael will replicate the study by splitting the dataset into an old one and a recent one to evaluate the evolution.
+
+
+## Questions for TAs
+
+- Can / should we reuse the techniques of the paper for a different purpose ? (e.g bias according to genre / age)
+- We are going to study the difference of behavior of white and black officers. Is it ok use other methods than that of the paper (as veil_of_darkness / threshold test)
+- Is it ok to restrict the study to a particular dataset with all the features we need ? We cannot process all the datasets anyway.
