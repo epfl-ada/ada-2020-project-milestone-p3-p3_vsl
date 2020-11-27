@@ -20,7 +20,7 @@ Using various methods trying to remove potential biases (veil of darkness, thres
 
 ## Proposed datasets
 
-The original paper based its work on a tremendous amount of data available on the website https://openpolicing.stanford.edu/ . As lots of features were not explored in the paper, we decided to use the same bulk. Among all the datasets, we sorted out the ones referencing the characteristics of the officer carrying out the arrest, as well as a sufficient time lapse. Given the characteristics of the officer and the details about the arrest we are interested in, the dataset we are going to use is composed of the arrests conducted by the state police of Florida, as well as the municipal police of Long beach, California.
+The original paper based its work on a tremendous amount of data available on the website https://openpolicing.stanford.edu/data . As lots of features were not explored in the paper, we decided to use the same bulk. Among all the datasets, we sorted out the ones referencing the characteristics of the officer carrying out the arrest, as well as a sufficient time lapse. Given the characteristics of the officer and the details about the arrest we are interested in, the dataset we are going to use is composed of the arrests conducted by the **state police of Florida**, as well as the municipal police of **Long beach, California**.
 
 ## Methods
 
