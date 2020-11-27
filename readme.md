@@ -6,4 +6,6 @@
 
 [Papers](https://drive.google.com/drive/folders/1QRoC6DAMoD_BxJ6KPMdijBRTDUYhoVfG)
 
+[Website of paper + data](https://openpolicing.stanford.edu/)
+
 [Link for idea ggdoc](https://docs.google.com/document/d/14IGVtt_Xo7xC49fvVUNsjtBrEgZz0ZmfWpzUkYwOi6U/edit?usp=sharing)
