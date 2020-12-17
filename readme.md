@@ -1,7 +1,7 @@
 # P3 milestone : proposition of paper extension 
 
 
-## Study of the existence of différences in the police stop schemes among police officers in the US
+## Study of the existence of differences in the police stop schemes among police officers in the US
 
 ## Abstract
 
