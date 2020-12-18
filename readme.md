@@ -15,7 +15,7 @@ Using various methods trying to remove potential biases (veil of darkness, thres
 2. More particularly, does the time spent in the police forces influence the racial bias of officers ? 
 
 3. Once stopped, does the characteristics of the officer influence the search ? In particular, is it prejudiced against minorities ? 
-4. (if time) Is there an influence of the epoch on these results? (e.g 2008 vs. 2018)
+<!-- 4. (if time) Is there an influence of the epoch on these results? (e.g 2008 vs. 2018) -->
 
 
 ## Proposed datasets
@@ -50,17 +50,13 @@ The original paper based its work on a tremendous amount of data available on th
 
 ## Organization within the team
 
-Mickael will handle the dowload the different datasets, merging them and cleaning them to have all columns available for each row, while Samuel and Jonas will study the potential ways to measure bias and their advantages and disadvantages. A final discussion between all the members will take place around the 4rth of December in order to choose the bias measure method based on the analysis and the data available. 
+Mickael : first insight of the data, first idea of bias score and raw analysis
 
-When the right bias measure will be chosen and the dataset ready, Samuel will start implementing the regressions to study the overall officer characteristics influence, while Jonas and Mickael will focus on specific characteristics (such as years in service or race of the officer).
+Samuel : handle plotly and transfer plt to interactive graphs. Second idea of bias score
 
-After this, they will all 3 move to the stopped-search measure and evaluate if bias are present without the officer population at this level. Jonas will particularly focus on finding if there are any obvious bias in the results and find ways to overcome them.
+Mickael & Samuel : search_rate graphs
 
-Finally, Samuel and Jonas will focus on extracting the results and drawing conclusion while, if there is enough time left, Mickael will replicate the study by splitting the dataset into an old one and a recent one to evaluate the evolution.
+Jonas : thinking and implementation of Veil of Darkness
 
+Power of friendship : everyone wrote the datastory
 
-## Questions for TAs
-
-- Can / should we reuse the techniques of the paper for a different purpose ? (e.g bias according to genre / age)
-- We are going to study the difference of behavior of white and black officers. Is it ok use other methods than that of the paper (as veil_of_darkness / threshold test)
-- Is it ok to restrict the study to a particular dataset with all the features we need ? We cannot process all the datasets anyway.
